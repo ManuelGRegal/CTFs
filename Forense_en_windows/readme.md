@@ -1,7 +1,6 @@
-<div class="row">
-    <div class="col-md-10">
+<p align=center>
         <img class="w-100 mx-auto d-block" style="max-width: 500x;padding: 20px;padding-top: 7vh;" src="mafia_color.gif" />
-<h1 class="text-center">
+</p>
         <p>Forense en Windows</p> 
 </h1>
 <h2 class="text-center">
