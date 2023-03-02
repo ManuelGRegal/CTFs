@@ -53,7 +53,7 @@
 <br>
 <table align="center" cellspacing="50">
 <tr>
-   <td><a href="https://www.iessanclemente.net/" target="_blank">IES San Clemente</a></td>
+   <td><p align=center><a href="https://www.iessanclemente.net/" target="_blank">IES San Clemente</a></p></td>
    <td><a href="https://www.cifprodolfoucha.es/"  target="_blank">CIFP Rodolfo Ucha Piñeiro</a></td>
 </tr>
 <tr>
