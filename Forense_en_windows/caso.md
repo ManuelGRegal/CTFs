@@ -57,8 +57,8 @@
    <td><a href="https://www.cifprodolfoucha.es/"  target="_blank">CIFP Rodolfo Ucha Piñeiro</a></td>
 </tr>
 <tr>
-    <td><a href="https://www.edu.xunta.gal/" target="_blank"><img class="w-100 mx-auto d-block" style="max-width: 250px;padding: 5px;" src="./logo_xunta_positivo.png" /></a></td>
-    <td><a href="https://www.edu.xunta.gal/fp/convocatoria-innovacion-2022" target="_blank"><img class="w-100 mx-auto d-block" style="max-width: 250px;padding: 5px;" src="./composicion_formacion_profesional_innova.png" /></a></td>
+    <td><a href="https://www.edu.xunta.gal/" target="_blank"><img class="w-100 mx-auto d-block" style="max-width: 250px;padding: 5px;" src="../imagenes/logo_xunta_positivo.png" /></a></td>
+    <td><a href="https://www.edu.xunta.gal/fp/convocatoria-innovacion-2022" target="_blank"><img class="w-100 mx-auto d-block" style="max-width: 250px;padding: 5px;" src="../imagenes/composicion_formacion_profesional_innova.png" /></a></td>
 </tr>
 </table>
       <p> </p>
