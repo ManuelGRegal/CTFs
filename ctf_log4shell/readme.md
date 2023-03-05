@@ -9,7 +9,7 @@
 - [caso.md](caso.md): ambientación
 - [ctf_log4shell_preguntas_gal.pdf](ctf_log4shell_preguntas_gal.pdf): preguntas en galego
 - [ctf_log4shell_preguntas_es.pdf](ctf_log4shell_preguntas_es.pdf): preguntas en español
-- [ctf_log4shell_solucion_gal.pdf](ctf_log4shelln_solucion_gal.pdf): respostas en galego
+- [ctf_log4shell_solucion_gal.pdf](ctf_log4shell_solucion_gal.pdf): respostas en galego
 - [ctf_log4shell_solucion_es.pdf](ctf_log4shell_solucion_es.pdf): respuestas en español
 - [backup_Log4ShellCTF.zip](backup_Log4ShellCTF.zip): para importar en plataforma [ctfd](https://github.com/CTFd/CTFd)
 <br>
