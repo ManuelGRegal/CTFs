@@ -4,7 +4,7 @@
 #### Duración estimada: 4 horas
 #### Autor: [Rafael López García](https://phy-development.github.io/)
 #### Ficheros:
-- caso.md: ambientación
+- [caso.md](caso.md): ambientación
 - [ctf_forense_en_windows_preguntas_gal.pdf](ctf_forense_en_windows_preguntas_gal.pdf): preguntas en galego
 - [ctf_forense_en_windows_preguntas_es.pdf](ctf_forense_en_windows_preguntas_es.pdf): preguntas en español
 - [ctf_forense_en_windows_solucion_gal.pdf](ctf_forense_en_windows_solucion_gal.pdf): respostas en galego
