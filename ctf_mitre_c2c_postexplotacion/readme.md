@@ -11,7 +11,7 @@
 - [ctf_mitre_c2c_postexplotacion_preguntas_es.pdf](ctf_mitre_c2c_postexplotacion_preguntas_es.pdf): preguntas en español
 - [ctf_mitre_c2c_postexplotacion_solucion_gal.pdf](ctf_mitre_c2c_postexplotacion_solucion_gal.pdf): respostas en galego
 - [ctf_mitre_c2c_postexplotacion_solucion_es.pdf](ctf_mitre_c2c_postexplotacion_solucion_es.pdf): respuestas en español
-- [backup_MITRE-C2C-Postexplotacion](backup_MITRE-C2C-Postexplotacion.zip): para importar en plataforma [ctfd](https://github.com/CTFd/CTFd)
+- [backup_MITRE-C2C-Postexplotacion.zip](backup_MITRE-C2C-Postexplotacion.zip): para importar en plataforma [ctfd](https://github.com/CTFd/CTFd)
 <br>
 <br>
 ---
