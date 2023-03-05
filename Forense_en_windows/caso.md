@@ -22,7 +22,7 @@
   - <a href="https://drive.google.com/file/d/1BBsFH_UJdKCvUEZYz4y9sR9FgiVzW5YP/view?usp=share_link" target="_blank">mirror3</a>
   
 ---
----
+### Análisis forense en Windows
 #### Parte 1
 <p>El ex-piloto de carreras John Tanner es ahora un policía infiltrado en la Mafia de Nueva York. Su capo, el señor Castaldi, planea un golpe de forma inminente. Suponemos que el elegido para llevarlo a cabo es el implacable asesino a sueldo Jean Paul, alias “El Francés”, y que, como de costumbre, Tanner conducirá el coche de la huida. Sin embargo, aún no sabemos cuál es el objetivo.</p>
 <p>Lo que sí sabemos es que Tanner estuvo manteniendo conversaciones con el Sr. Castaldi a través de una aplicación de chat. Por desgracia, dicha aplicación está cifrada con un mecanismo conocido como Double Ratchet, similar al que usan WhatsApp y sus competidores y, por tanto, no hemos podido intervenir dichas comunicaciones.</p>
@@ -44,17 +44,11 @@
   - <a href="https://drive.google.com/file/d/1w_KyE2XF8H1N00RAw-4yK-V4medGdFVN/view?usp=share_link" target="_blank">mirror1</a>
   - <a href="https://drive.google.com/file/d/1Z9j7rGjFDyYNvu7DCQUaWlpq0V8qFuSd/view?usp=share_link" target="_blank">mirror2</a>
   - <a href="https://drive.google.com/file/d/1BBsFH_UJdKCvUEZYz4y9sR9FgiVzW5YP/view?usp=share_link" target="_blank">mirror3</a>
-
-<br>
-<h2 class="text-center">
-  <p> </p>
-    <p></p>
-</h2>
 <br>
 <table align="center" cellspacing="50">
 <tr>
-   <td><p align=center><a href="https://www.iessanclemente.net/" target="_blank">IES San Clemente</a></p></td>
-   <td><a href="https://www.cifprodolfoucha.es/"  target="_blank">CIFP Rodolfo Ucha Piñeiro</a></td>
+   <td><h1 align=center><a href="https://www.iessanclemente.net/" target="_blank">IES San Clemente</a></h1></td>
+   <td><h1 align=center><a href="https://www.cifprodolfoucha.es/"  target="_blank">CIFP Rodolfo Ucha Piñeiro</a></h1></td>
 </tr>
 <tr>
     <td><a href="https://www.edu.xunta.gal/" target="_blank"><img class="w-100 mx-auto d-block" style="max-width: 250px;padding: 5px;" src="../imagenes/logo_xunta_positivo.png" /></a></td>
