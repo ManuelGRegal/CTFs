@@ -3,6 +3,13 @@
 #### Nº preguntas: 18
 #### Duración estimada: horas
 #### Autor: [Rafael López García](https://phy-development.github.io/)
+#### Ficheros:
+- caso.md: ambientación
+- [ctf_forense_en_windows_preguntas_gal.pdf](ctf_forense_en_windows_preguntas_gal.pdf): preguntas en galego
+- [ctf_forense_en_windows_preguntas_es.pdf](ctf_forense_en_windows_preguntas_es.pdf): preguntas en español
+- [ctf_forense_en_windows_solucion_gal.pdf](ctf_forense_en_windows_solucion_gal.pdf): respostas en galego
+- [ctf_forense_en_windows_solucion_es.pdf](ctf_forense_en_windows_solucion_es.pdf): respuestas en español
+- [backup_Forense_en_windows.zip](backup_Forense_en_windows.zip): para importar en plataforma [ctfd](https://github.com/CTFd/CTFd)
 <br>
 <br>
 ---
