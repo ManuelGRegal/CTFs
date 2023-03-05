@@ -5,6 +5,13 @@
 #### Nº preguntas: 13
 #### Duración estimada: horas
 #### Autor: [Andrés del Río López](https://twitter.com/Andr3sdelRio)
+#### Ficheros:
+- caso.md: ambientación
+- [ctf_forense_en_linux_preguntas_gal.pdf](ctf_forense_en_linux_preguntas_gal.pdf): preguntas en galego
+- [ctf_forense_en_linux_preguntas_es.pdf](ctf_forense_en_linux_preguntas_es.pdf): preguntas en español
+- [ctf_forense_en_linux_solucion_gal.pdf](ctf_forense_en_linux_solucion_gal.pdf): respostas en galego
+- [ctf_forense_en_linux_solucion_es.pdf](ctf_forense_en_linux_solucion_es.pdf): respuestas en español
+- [backup_Forense_en_Linux.zip](backup_Forense_en_Linux.zip): para importar en plataforma [ctfd](https://github.com/CTFd/CTFd)
 <br>
 <br>
 ---
