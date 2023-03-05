@@ -6,7 +6,7 @@
 #### Duración estimada: 4 horas
 #### Autor: [Manuel González Regal](https://twitter.com/ManuelGRegal)
 #### Ficheros:
-- caso.md: ambientación
+- [caso.md](caso.md): ambientación
 - [ctf_mitre_c2c_postexplotacion_preguntas_gal.pdf](ctf_mitre_c2c_postexplotacion_preguntas_gal.pdf): preguntas en galego
 - [ctf_mitre_c2c_postexplotacion_preguntas_es.pdf](ctf_mitre_c2c_postexplotacion_preguntas_es.pdf): preguntas en español
 - [ctf_mitre_c2c_postexplotacion_solucion_gal.pdf](ctf_mitre_c2c_postexplotacion_solucion_gal.pdf): respostas en galego
