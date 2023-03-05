@@ -1,7 +1,7 @@
 ## Log4Shell
 
 
-#### Temática: explotación de Log4Shel / postexplotación sistemas Linux
+#### Temática: explotación de Log4Shell / postexplotación sistemas Linux
 #### Nº preguntas: 40
 #### Duración estimada: 4 horas
 #### Autor: [Manuel González Regal](https://twitter.com/ManuelGRegal)
