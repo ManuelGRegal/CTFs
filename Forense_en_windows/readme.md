@@ -1,7 +1,7 @@
 ## Análise forense en Windows
 #### Temática: Forense en Windows (volcado RAM + volcado disco duro)
 #### Nº preguntas: 18
-#### Duración estimada: horas
+#### Duración estimada: 4 horas
 #### Autor: [Rafael López García](https://phy-development.github.io/)
 #### Ficheros:
 - caso.md: ambientación
