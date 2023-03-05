@@ -3,7 +3,7 @@
 
 #### Temática: Forense en Linux (volcado RAM + volcado disco duro en formato EnCase)
 #### Nº preguntas: 13
-#### Duración estimada: horas
+#### Duración estimada: 8 horas
 #### Autor: [Andrés del Río López](https://twitter.com/Andr3sdelRio)
 #### Ficheros:
 - caso.md: ambientación
