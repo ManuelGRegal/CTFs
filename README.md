@@ -6,7 +6,7 @@
 
 Repositorio de retos CTFs listos para montar na plataforma [ctfd](https://github.com/CTFd/CTFd). Os retos están clasificados por carpetas, onde atoparás:
 - backup_xxxx.zip --> copia de seguridade lista para ser importada en [ctfd](https://github.com/CTFd/CTFd) (usuario: administrador / contrasinal: fpinnovagalicia2022 )
-- xxxx.md --> información sobre o reto (temática, autor, ...)
+- caso.md --> información sobre o reto (temática, autor, ...)
 - ctf_xxxx_preguntas_es.pdf --> preguntas do reto CTF en español
 - ctf_xxxx_preguntas_gal.pdf --> preguntas do reto CTF en galego
 - ctf_xxxx_solucion_es.pdf --> solucións do reto CTF en español
