@@ -1,6 +1,6 @@
 # Retos de ciberseguridade
 
-<p align="justify">Benvido/a ó repositorio do proxecto _‘Plataforma de retos de ciberseguridade. A gamificación no proceso de adquisición de competencias no ámbito da ciberseguridade’_ que resultou premiado na Resolución do 23 de marzo de 2021 da Secretaría Xeral de Educación e Formación Profesional pola que se resolven os premios para o desenvolvemento de proxectos de innovación tecnolóxica ou científica e proxectos de innovación didáctica no ámbito da Formación Profesional. </p>
+<p align="justify">Benvido/a ó repositorio do proxecto <i>Plataforma de retos de ciberseguridade. A gamificación no proceso de adquisición de competencias no ámbito da ciberseguridade’</i> que resultou premiado na Resolución do 23 de marzo de 2021 da Secretaría Xeral de Educación e Formación Profesional pola que se resolven os premios para o desenvolvemento de proxectos de innovación tecnolóxica ou científica e proxectos de innovación didáctica no ámbito da Formación Profesional. </p>
 
 <p align="justify">Empresas e organismos como exércitos, forzas e corpos de seguridade do estado; confían en eventos como os Cyber Ranges e os retos CTF (Capture The Flag), tanto na modalidade Attack-Defense coma Jeopardy, como parte do proceso de aprendizaxe, actualización e adestramento no ámbito da ciberseguridade dos seus membros. Este repositorio contén retos CTF sobre diversas temáticas como análise forense e hacking ético, empregados para mellorar a docencia de ciberseguridade en ciclos e cursos de especialización de Formación Profesional.</p>
 
