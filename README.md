@@ -5,8 +5,9 @@
 <p align="justify">Empresas e organismos como exércitos, forzas e corpos de seguridade do estado; confían en eventos como os Cyber Ranges e os retos CTF (Capture The Flag), tanto na modalidade Attack-Defense coma Jeopardy, como parte do proceso de aprendizaxe, actualización e adestramento no ámbito da ciberseguridade dos seus membros. Este repositorio contén retos CTF sobre diversas temáticas como análise forense e hacking ético, empregados para mellorar a docencia de ciberseguridade en ciclos e cursos de especialización de Formación Profesional.</p>
 
 Repositorio de retos CTFs listos para montar na plataforma [ctfd](https://github.com/CTFd/CTFd). Os retos están clasificados por carpetas, onde atoparás:
+- readme.md --> información básica sobre o reto (temática, nº preguntas, duración estimada, autor, ...)
+- caso.md --> explicación do reto (ambientación do caso, vulnerabilidade/tecnoloxías implicadas, ligazóns a evidencias, ...)
 - backup_xxxx.zip --> copia de seguridade lista para ser importada en [ctfd](https://github.com/CTFd/CTFd) (usuario: administrador / contrasinal: fpinnovagalicia2022 )
-- caso.md --> información sobre o reto (temática, autor, ...)
 - ctf_xxxx_preguntas_es.pdf --> preguntas do reto CTF en español
 - ctf_xxxx_preguntas_gal.pdf --> preguntas do reto CTF en galego
 - ctf_xxxx_solucion_es.pdf --> solucións do reto CTF en español
