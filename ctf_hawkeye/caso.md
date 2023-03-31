@@ -1,13 +1,18 @@
 ### Hawkeye
 
-Un dos administrativos da nosa organización leva temas económicos con empresas internacionais e recibiu un email relativo a unha factura que ten unha ligazón para descargala. Na captura sanclemente-forense-01.pcap1 está o tráfico da organización xerado despois de abrir o email.
+Un dos administrativos da nosa organización leva temas económicos con empresas internacionais e recibiu un email relativo a unha factura que ten unha ligazón para descargala. Unha vez descargada, procede a abrila pero non ve nada.
 
-Como analista do SOC (Security Operations Center) feixe unha investigación do tráfico de rede para determinar se houbo un incidente relativo aos emails recibidos polo administrativo. Usando os teus coñecementos de Wireshark responde ás seguintes cuestións:
+Como analista do SOC (Security Operations Center) fai unha investigación do tráfico de rede para determinar se houbo un incidente relativo ós emails recibidos polo administrativo. Usa os teus coñecementos de Wireshark e/lu Brim para resolver o caso.
+
+No arquivo pcap proprocionado está o tráfico da organización xerado despois de abrir o email.
 
 ---
-Uno de los administrativos de nuestra organización lleva temas económicos con empresas internacionales y ha recibido un email relativo a una factura que tiene un enlace para descargarla. En la captura sanclemente-forense-01.pcap1 está el tráfico de la organización generado después de abrir el email.
+Uno de los administrativos de nuestra organización lleva temas económicos con empresas internacionales y ha recibido un email relativo a una factura que tiene un enlace para descargarla. Una vez descargada, procede a abrirla pero no ve nada.
 
-Como analista del SOC (Security Operations Center) haz una investigación del tráfico de red para determinar si hubo un incidente relativo a los emails recibidos por el administrativo. Usando tus conocimientos de Wireshark responde a las siguientes cuestiones:
+Como analista del SOC (Security Operations Center) haz una investigación del tráfico de red para determinar si hubo un incidente relativo a los emails recibidos por el administrativo. Usa tus conocimientos de Wireshark y/o Brim para resolver el caso.
+
+En el archivo pcap proporcionado está el tráfico de la organización generado después de abrir el email.
+
 ---
 <br>
 <table align="center" cellspacing="50">
